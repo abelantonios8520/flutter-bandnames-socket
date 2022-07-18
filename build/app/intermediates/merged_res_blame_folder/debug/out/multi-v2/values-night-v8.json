@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/abelsalcedo/Documentos/Flutter/band_names/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/abelsalcedo/Documentos/Flutter/flutter-bandnames-socket/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/abelsalcedo/Documentos/Flutter/band_names/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/abelsalcedo/Documentos/Flutter/flutter-bandnames-socket/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

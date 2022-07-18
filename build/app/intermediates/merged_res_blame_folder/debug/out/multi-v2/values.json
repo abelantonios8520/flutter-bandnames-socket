@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/home/abelsalcedo/Documentos/Flutter/band_names/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/abelsalcedo/Documentos/Flutter/flutter-bandnames-socket/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/home/abelsalcedo/Documentos/Flutter/band_names/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "93,98",
-                        "startColumns": "4,4",
-                        "startOffsets": "5462,5770",
-                        "endLines": "97,100",
-                        "endColumns": "12,12",
-                        "endOffsets": "5765,5934"
-                    }
-                },
                 {
                     "source": "/home/abelsalcedo/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values/values.xml",
                     "from": {
@@ -58,6 +39,25 @@
                         "endLines": "7,8,9,10,72,121,125,274,291,299",
                         "endColumns": "11,59,51,44,59,24,24,24,24,24",
                         "endOffsets": "289,349,401,446,4387,7249,7446,16407,17521,17914"
+                    }
+                },
+                {
+                    "source": "/home/abelsalcedo/Documentos/Flutter/flutter-bandnames-socket/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "93,98",
+                        "startColumns": "4,4",
+                        "startOffsets": "5462,5770",
+                        "endLines": "97,100",
+                        "endColumns": "12,12",
+                        "endOffsets": "5765,5934"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/abelsalcedo/Documentos/Flutter/band_names/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/home/abelsalcedo/Documentos/Flutter/flutter-bandnames-socket/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/home/abelsalcedo/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ur/values-ur.xml",
